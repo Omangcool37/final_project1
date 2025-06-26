@@ -1,0 +1,17 @@
+*{box-sizing: border-box;}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: brown;
+    scroll-behavior: smooth;
+}
+
+.greetings{
+    font-size: 45px;
+}
+
+
+#homeImg{
+    padding-left: 150px ;
+}
